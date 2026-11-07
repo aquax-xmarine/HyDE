@@ -1,0 +1,5 @@
+haystack-ai
+sentence-transformers-haystack
+sentence-transformers
+python-dotenv
+numpy
